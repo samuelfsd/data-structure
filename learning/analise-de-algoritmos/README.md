@@ -61,8 +61,6 @@ c7 -> retorno de método (return resultado)
 1 * c5
 1 * c6
 1 * c7
-
-
 ```
 
 3. Somar o custo total.
@@ -72,5 +70,4 @@ c7 -> retorno de método (return resultado)
 <!-- Note, essa função não depende de N então o seu tempo independe to tamanho da entrada -->
 
 f(n) = c1 + c2 + c3 + c4 + c5 + c6 + c7
-
 ```
